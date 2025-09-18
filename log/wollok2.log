@@ -1119,3 +1119,14 @@
 {"level":"info","message":"⌛ Validating src/colecciones.wpgm","timeElapsed":330,"timestamp":"2024-09-12T06:24:00.161Z"}
 {"exitCode":"SIGINT","level":"info","message":"👾 Game executed src.colecciones.ejemplo on c:\\Users\\facun\\OneDrive\\Escritorio\\colecciones-capy","timeElapsed":414584,"timestamp":"2024-09-12T06:24:04.701Z"}
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed src.colecciones.ejemplo on c:\\Users\\facun\\OneDrive\\Escritorio\\colecciones-capy","timeElapsed":68444,"timestamp":"2024-09-12T06:25:22.693Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":158,"timestamp":"2025-09-18T13:42:38.492Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":113,"timestamp":"2025-09-18T13:42:38.609Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":115,"timestamp":"2025-09-18T13:42:38.795Z"}
+{"level":"info","message":"⌛ Validating capy.wlk","timeElapsed":123,"timestamp":"2025-09-18T13:42:38.919Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":106,"timestamp":"2025-09-18T13:42:39.025Z"}
+{"level":"info","message":"⌛ Validating testExample.wtest","timeElapsed":128,"timestamp":"2025-09-18T13:42:39.181Z"}
+{"level":"info","message":"⌛ Validating src/bloques.wpgm","timeElapsed":145,"timestamp":"2025-09-18T13:42:39.328Z"}
+{"level":"info","message":"⌛ Validating capy.wlk","timeElapsed":103,"timestamp":"2025-09-18T13:42:39.431Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":104,"timestamp":"2025-09-18T13:42:40.478Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":108,"timestamp":"2025-09-18T13:42:40.586Z"}
+{"level":"info","message":"Removing diagnostics from /C:/Users/facundo.franco/2025-pdep-jm-capybloquesaula1-game-capy/capy.wlk","timestamp":"2025-09-18T13:42:40.689Z"}
